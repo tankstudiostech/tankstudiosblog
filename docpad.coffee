@@ -2,10 +2,10 @@ moment = require('moment')
 docpadConfig = {
   templateData:
     site:
-      title: 'Tank Studios'
-      tagline: 'Life and Technology'
-      description: 'Blogging about my walk with Jesus in a modern world'
-      logo: '/img/logo.ico'
+      title: 'My Awesome Blog'
+      tagline: 'For to do Things Amazingly Awesome'
+      description: 'A blog all about how awesome I am'
+      logo: '/img/logo.png'
       url: ''
       cover: '/img/cover.jpg'
       navigation: [
@@ -20,27 +20,22 @@ docpadConfig = {
           section: 'about'
         },
         {
-          name: 'Life',
-          href: '/tags/life.html',
-          section: 'tag-life'
+          name: 'Fiction',
+          href: '/tags/fiction.html',
+          section: 'tag-fiction'
         },
         {
-          name: 'Tech',
-          href: '/tags/tech.html',
-          section: 'tag-tech'
-        },
-        {
-          name: 'Dev',
-          href: '/tags/Dev.html',
-          section: 'tag-Dev'
+          name: 'Test Posts',
+          href: '/tags/test.html',
+          section: 'tag-test'
         }
       ]
     author:
-      name: 'Ryan Tankersley'
+      name: 'John U. Doe'
       image: ''
       url: '/'
-      location: 'Tulsa, OK',
-      bio: ''
+      location: 'Nowhere, IL',
+      bio: 'I do stuff and things'
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
     getDescription: -> if @document.description then "#{@document.description} | #{@site.description}" else @site.description
     bodyClass: -> if @document.isPost then "post-template" else "home-template"

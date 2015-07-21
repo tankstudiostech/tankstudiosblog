@@ -1,8 +1,3 @@
-This is my personal blog for Tank Studios.  I started with the casper skeleton for docpad.
-
-The details for an empty Casper theme are below.
-
-
 # [Casper](https://github.com/TryGhost/Casper) skeleton for [DocPad](https://github.com/bevry/docpad)
 The default personal blogging theme for Ghost.
 
