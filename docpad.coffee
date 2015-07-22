@@ -7,6 +7,7 @@ docpadConfig = {
       description: 'Blogging about my walk with Jesus in a modern world'
       logo: '/img/logo.ico'
       url: 'http://blog.tankstudios.net/'
+      # url: 'http://localhost:9778/'
       cover: '/img/cover.jpg'
       navigation: [
         {
