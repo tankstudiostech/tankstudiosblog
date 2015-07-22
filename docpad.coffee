@@ -33,11 +33,6 @@ docpadConfig = {
           name: 'Dev',
           href: '/tags/Dev.html',
           section: 'tag-Dev'
-        },
-        {
-          name: 'Blah',
-          href: '/tags/Dev.html',
-          section: 'tag-Dev'
         }
       ]
     author:
