@@ -6,7 +6,7 @@ docpadConfig = {
       tagline: 'Life and Technology'
       description: 'Blogging about my walk with Jesus in a modern world'
       logo: '/img/logo.ico'
-      url: ''
+      url: 'http://blog.tankstudios.net/'
       cover: '/img/cover.jpg'
       navigation: [
         {
@@ -31,6 +31,11 @@ docpadConfig = {
         },
         {
           name: 'Dev',
+          href: '/tags/Dev.html',
+          section: 'tag-Dev'
+        },
+        {
+          name: 'Blah',
           href: '/tags/Dev.html',
           section: 'tag-Dev'
         }
