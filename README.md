@@ -1,41 +1,12 @@
-# [Casper](https://github.com/TryGhost/Casper) skeleton for [DocPad](https://github.com/bevry/docpad)
-The default personal blogging theme for Ghost.
+# Tank Studios Blog
+This is the code for the blog at blog.tankstudios.net
 
-
-## Getting Started
-
-1. [Install DocPad](https://github.com/bevry/docpad)
-
-1. Clone the project and run the server
-
-``` bash
-mkdir my-website
-cd my-website
-docpad run --skeleton casper
-```
-
-1. [Open http://localhost:9778/](http://localhost:9778/)
-
-1. Start hacking away by modifying the `src` directory
-
-## What's Different from Ghost - Casper?
-
-1. This skeleton operates in a more "single author" mode.  Author details are used throughout the site, and can be edited in docpad.coffee.  Because of this there is no "author posts" pages.
-
-2. Minor logic tweak to the masthead / cover images.  If it's not present on a post or page, the default site "cover" will be used instead.  This eliminates a display issue with the menu button (white) on a white background.
-
-3. Site details are all managed in docpad.coffee, at the top.
-
-4. Navigation links are manually managed in docpad.coffee.  This was the best way to ensure flexibility and make the navigation "generatable".
-
-5. Paged posts are possible in this version.
-
-6. Marking active links uses the url of the page, or 'sections'.  If a pages 'section' and a link's section match, the link will be marked active.  For the nav, this means the line in the link will be solid.
-
+The blog was developed using the [Casper](https://github.com/TryGhost/Casper) skeleton for [DocPad](https://github.com/bevry/docpad)
 
 ## License
 
-Copyright (c) 2013-2015 Ghost Foundation
+Copyright (c) 2015 Tank Studios
+This website was build from Casper, which was built from Ghost.  The license matches Ghost Foundation's license:
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
