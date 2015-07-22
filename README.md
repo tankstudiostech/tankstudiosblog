@@ -6,6 +6,7 @@ The blog was developed using the [Casper](https://github.com/TryGhost/Casper) sk
 ## License
 
 Copyright (c) 2015 Tank Studios
+
 This website was build from Casper, which was built from Ghost.  The license matches Ghost Foundation's license:
 
 Permission is hereby granted, free of charge, to any person
