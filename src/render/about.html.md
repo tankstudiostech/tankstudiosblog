@@ -1,10 +1,7 @@
 ---
 title: 'About'
+cover: '/img/hello-masthead.jpg'
 layout: 'page'
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
-
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to https://ghost.org and sign up.
+This is the blog for Tank Studios!  Thank you for coming!
