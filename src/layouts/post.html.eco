@@ -68,6 +68,9 @@ layout: 'default'
         </a>
       </section>
 
+      <section class="comments">
+        <div id="disqus_thread"></div>
+      </section>
     </footer>
 
   </article>
