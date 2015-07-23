@@ -37,7 +37,7 @@ layout: 'default'
       <% end %>
 
       <section class="author">
-        <h4><a href="<%= @author.href %>"><%= @author.name %></a></h4>
+        <h4><%= @author.name %></h4>
 
         <% if @author.bio: %>
         <p><%- @author.bio %></p>
