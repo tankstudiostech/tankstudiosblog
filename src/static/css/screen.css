@@ -479,7 +479,7 @@ margin on the iframe, cause it breaks stuff. */
     position: relative;
     z-index: 10;
     min-height: 100%;
-    background: #fff;
+    background: #F5F5F5;
     -webkit-transition: -webkit-transform 0.5s ease;
             transition: transform 0.5s ease;
 }
@@ -769,8 +769,12 @@ body.nav-opened .nav {
     float: left;
     background: none !important; /* Makes sure there is never a background */
     border: none !important; /* Makes sure there is never a border */
+    color: white;
 }
 
+.blog-logo:hover {
+    color: #4A4A4A;
+}
 .blog-logo img {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
