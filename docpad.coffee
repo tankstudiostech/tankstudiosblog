@@ -24,17 +24,17 @@ docpadConfig = {
           name: 'Life',
           href: '/tags/life.html',
           section: 'tag-life'
-        },
-        {
-          name: 'Tech',
-          href: '/tags/tech.html',
-          section: 'tag-tech'
-        },
-        {
-          name: 'Dev',
-          href: '/tags/Dev.html',
-          section: 'tag-Dev'
         }
+        # {
+        #   name: 'Tech',
+        #   href: '/tags/tech.html',
+        #   section: 'tag-tech'
+        # },
+        # {
+        #   name: 'Dev',
+        #   href: '/tags/Dev.html',
+        #   section: 'tag-Dev'
+        # }
       ]
     author:
       name: 'Ryan Tankersley'
