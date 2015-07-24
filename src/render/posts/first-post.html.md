@@ -39,7 +39,7 @@ If you read much of Tank Studios Tech Talk, you will know what this involves.  I
 <h4>Dev</h4>
 
 I expect this one to really only benefit software developers who stumble upon my site via Google.  In these I will be speaking of software development.
-<strong>I may post about a problem I have solved or about a personal project I am working on</strong>.  Occasionally I have solved problems and that, "I could write a blog post about that."
+<strong>I may post about a problem I have solved or about a personal project I am working on</strong>.  Occasionally I have solved problems and thought, "I could write a blog post about that."
 If I have that thought, now I can!
 
 <h3>Conclusion</h3>
