@@ -3,7 +3,7 @@ docpadConfig = {
   templateData:
     site:
       title: 'Tank Studios'
-      tagline: 'Life and Technology'
+      tagline: 'Walking with Jesus in a Modern World'
       description: 'Blogging about my walk with Jesus in a modern world'
       logo: '/img/logo.ico'
       url: 'http://blog.tankstudios.net/'
