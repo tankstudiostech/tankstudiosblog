@@ -4,4 +4,4 @@ cover: '/img/hello-masthead.jpg'
 layout: 'page'
 ---
 
-Thank you for your submission!
+Thank you for your message!
