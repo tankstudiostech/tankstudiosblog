@@ -21,6 +21,11 @@ docpadConfig = {
           section: 'about'
         },
         {
+          name: 'Contact',
+          href: '/contact.html',
+          section: 'contact'
+        },
+        {
           name: 'Life',
           href: '/tags/life.html',
           section: 'tag-life'
