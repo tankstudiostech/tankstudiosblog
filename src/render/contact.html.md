@@ -3,7 +3,8 @@ title: 'Contact'
 cover: '/img/hello-masthead.jpg'
 layout: 'page'
 ---
-
+<link  rel="stylesheet" href="/css/bootstrap.css" />
+  
 Thank you for vising Tank Studios!  If you want to contact me, please fill out the below form, or messaging me at any of the services.
 <form method="post" action="//formspree.io/ry.tankersley@gmail.com">
   <div class="form-group">
