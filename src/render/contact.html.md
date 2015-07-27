@@ -8,15 +8,15 @@ Thank you for vising Tank Studios!  If you want to contact me, please fill out t
 <form method="post" action="//formspree.io/ry.tankersley@gmail.com">
   <div class="form-group">
     <label for="nameInput">Name</label>
-    <input type="text" class="form-control" id="nameInput" placeholder="Name">
+    <input type="text" name="nameInput" class="form-control" id="nameInput" placeholder="Name">
   </div>
   <div class="form-group">
     <label for="emailInput">Email address</label>
-    <input type="email" class="form-control" id="emailInput" placeholder="Email">
+    <input type="email" name="emailInput" class="form-control" id="emailInput" placeholder="Email">
   </div>
   <div class="form-group">
     <label for="messageInput">Message</label>
-    <textarea class="form-control" id="messageInput" rows="3" placeholder="Message"></textarea>
+    <textarea class="form-control" name="messageInput" id="messageInput" rows="3" placeholder="Message"></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
