@@ -8,7 +8,7 @@ layout: 'page'
 This is the blog for Tank Studios!  Thank you for coming!
 
 <h3> Who I Am </h3>
-My name is Ryan Tankersley.  I'm the guy in the picture.  The beautiful woman next to me is my wife, Michelle. 
+My name is Ryan Tankersley.  I'm the guy in the picture on the home page.  The beautiful woman next to me is my wife, Michelle. 
 Yes, I am that lucky; I promise I didn't just photoshop myself into a picture with a supermodel. We live in Tulsa, Oklahoma with our cat Tessie.
 
 The most important part of my life is my walk with Jesus Christ.  Since committing my life to Him in 2009, He has become the reason for all that I do...well, most of what I do. 
