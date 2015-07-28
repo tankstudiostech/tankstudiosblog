@@ -8,6 +8,9 @@ postDate: 'Tue Jul 28 2015 06:00:00 GMT-0500 (Central Daylight Time)'
 tags:
 - Life
 - Tech
+- Trello
+- Productivity
+- Task Management
 ---
 
 Most of us have so many tasks to do we lose track of them all. We may make lists, but we often need the list when we don't have it, or we simply let it fall out of date.
