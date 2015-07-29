@@ -959,6 +959,13 @@ body:not(.post-template) .post-title {
 
 .read-more {
     text-decoration: none;
+    color: cornflowerblue;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.read-more:hover {
+    color: lightblue;
 }
 
 .post-meta {
