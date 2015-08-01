@@ -1047,7 +1047,10 @@ body:not(.post-template) .post-title {
     line-height: 1.5em;
 }
 
-
+.small-image {
+    max-height: 500px;
+    max-width: 500px;
+}
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */

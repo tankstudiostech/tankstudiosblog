@@ -4,6 +4,7 @@ param(
 
 docpad generate
 cd out
+git add -a
 git commit -a -m "$m"
 git push origin master
 cd ..
