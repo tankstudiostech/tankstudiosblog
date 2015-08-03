@@ -1,6 +1,6 @@
 ---
 title: "Plastic for Dinner"
-cover: '/img/plastic-for-dinner/plastic.jpg'
+cover: '/img/plastic-for-dinner/stove.jpg'
 isPost: true
 active: true
 excerpt: How I failed at cooking
