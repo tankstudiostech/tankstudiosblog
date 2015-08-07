@@ -16,7 +16,7 @@ tags:
 <p>Most of us have so many tasks to do we lose track of them all. We may make lists, but we often need the list when we don't have it, or we simply let it fall out of date.
 <strong>Trello provides a free, easy way to create and manage tasks from wherever you are</strong>.</p>
 
-<p><img src="/img/trello/trello.png" alt="Trello Logo"></p>
+<p><img src="/img/trello/trello.PNG" alt="Trello Logo"></p>
 	
 <p>I have been using Trello for half a year now and have found it to be beneficial to practical life management.  Here is how.</p>
 
@@ -32,14 +32,14 @@ tags:
 <p>First, similar tasks are categorized into Boards.  Boards are the highest level.  One board may contian all the tasks for the house.  Another board may contain all the tasks for the office.
 <strong>Boards give clear distinctions between contexts</strong>.</p>
 
-<p><img src="/img/trello/trelloboards.png" alt="Trello Boards"></p>
+<p><img src="/img/trello/trelloboards.PNG" alt="Trello Boards"></p>
 	
 <h4>Lists</h4>
 <p><strong>Second, tasks within the context of a board, are grouped into lists</strong>.  These lists allow you to further organize tasks.  Want to be able to measure the progress of a task?  Then perhaps
 you would organize your boards into progress lists, "Not Started", "In Progress", "Almost There", and "Done".  Would you rather, instead
 further narrow down the context of your boards?  Your lists could then be, "Kitchen", "Garage", "Living Room", and "Bathroom".</p>
 
-<p><img src="/img/trello/list.png" alt="Trello Lists"></p>
+<p><img src="/img/trello/list.PNG" alt="Trello Lists"></p>
 	
 <p>But what if you want to measure both progress and context?  Labels solve that problem.</p>
 
@@ -48,7 +48,7 @@ further narrow down the context of your boards?  Your lists could then be, "Kitc
 desired</strong>.  So, a red label could mean "Not Started", a yellow label could mean "In progress", and
 a green label could mean "done".</p>
 
-<p><img src="/img/trello/listwithlabels.png" alt="List With Labels"></p>
+<p><img src="/img/trello/listwithlabels.PNG" alt="List With Labels"></p>
 
 <p>Alternatively, a red label could mean "Kitchen", yellow "Garage", green "Living Room", and blue "Bathroom".</p>
 
@@ -63,7 +63,7 @@ is on, the labels it has attached,
 the due date you have set, and the people the task is assigned to.  These details are all added
 elegantly so they only draw your eye when you are looking for them.</p>
 
-<p><img src="/img/trello/complexlist.png" alt="Complex List"></p>
+<p><img src="/img/trello/complexlist.PNG" alt="Complex List"></p>
 	
 <p>When you click a task, you get the opportunity to see and add even more details!  Inside the task editor, tasks can receive checklists, images, comments, and a variety of other details.</p>
 
