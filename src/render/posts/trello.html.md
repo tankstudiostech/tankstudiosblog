@@ -18,7 +18,7 @@ tags:
 
 <p><img src="/img/trello/trello.png" alt="Trello Logo"></p>
 	
-<p>I have been using Trello for nearly half a year now and have found it to be beneficial to practical life management.  Heres how!</p>
+<p>I have been using Trello for half a year now and have found it to be beneficial to practical life management.  Here is how.</p>
 
 <h3>Trello: The Answer to Task Management Woes</h3>
 
@@ -35,26 +35,33 @@ tags:
 <p><img src="/img/trello/trelloboards.png" alt="Trello Boards"></p>
 	
 <h4>Lists</h4>
-<p><strong>Second, tasks within the context of a board, are grouped into lists</strong>.  These lists allow you to further organize tasks.  Want to be able to measure the progress of a task?  Perhaps, then,
+<p><strong>Second, tasks within the context of a board, are grouped into lists</strong>.  These lists allow you to further organize tasks.  Want to be able to measure the progress of a task?  Then perhaps
 you would organize your boards into progress lists, "Not Started", "In Progress", "Almost There", and "Done".  Would you rather, instead
-further narrow down the context of your boards?  Your lists could then be, "Kitchen", "Garage", "Living Room", and "Bathroom".  But what if you want to measure both progress and context?  Labels solve that problem.</p>
+further narrow down the context of your boards?  Your lists could then be, "Kitchen", "Garage", "Living Room", and "Bathroom".</p>
 
 <p><img src="/img/trello/list.png" alt="Trello Lists"></p>
 	
+<p>But what if you want to measure both progress and context?  Labels solve that problem.</p>
+
 <h4>Labels</h4>
-<p>Finally, tasks can be attached with labels.  <strong>Tasks can have as many labels attached as desired</strong>.  So, a red label could mean "Not Started", a yellow label could mean "In progress", and a green label could mean "done".
-Alternatively, a red label could mean "Kitchen", yellow "Garage", green "Living Room", and blue "Bathroom".</p>
+<p>Finally, tasks can be attached with labels.  <strong>Tasks can have as many labels attached as
+desired</strong>.  So, a red label could mean "Not Started", a yellow label could mean "In progress", and
+a green label could mean "done".</p>
 
 <p><img src="/img/trello/listwithlabels.png" alt="List With Labels"></p>
+
+<p>Alternatively, a red label could mean "Kitchen", yellow "Garage", green "Living Room", and blue "Bathroom".</p>
 
 <p>All these categories can be used in whatever way you want!  Nearly all of my boards are categorized differently to suit my needs.</p>
 
 <h3>Detailing</h3>
-<p>With traditional pen and paper tasklists, there is not much room for details.  With too many details, the paper will get cluttered, and it will no longer be simple and succint.
-<strong>With Trello, you can get a clean tasklist when you only want an overview, but detailed tasks on further examination</strong>.</p>
+<p>With traditional pen and paper tasklists, there is not much room for details.  With too many details, the paper will get cluttered, and it will no longer be simple and succinct.
+<strong>With Trello, you can get a clean tasklist when you only want an overview, but you then can get detailed tasks on further examination</strong>.</p>
 
-<p>When looking at a Trello board, you can see details about a task at a glance.  You can see the list it is on, the labels it has attached,
-the due date you have set, and the people the task is assigned to.  These details are all added elegantly so they only draw your eye when you are looking for them.</p>
+<p>When looking at a Trello board, you can see details about a task at a glance.  You can see the list it
+is on, the labels it has attached,
+the due date you have set, and the people the task is assigned to.  These details are all added
+elegantly so they only draw your eye when you are looking for them.</p>
 
 <p><img src="/img/trello/complexlist.png" alt="Complex List"></p>
 	
