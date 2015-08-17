@@ -4,6 +4,7 @@ cover: '/img/plastic-for-dinner/stove.jpg'
 isPost: true
 active: true
 excerpt: How I failed at cooking
+postOrder: 2
 postDate: 'Sat Aug 1 2015 05:00:00 GMT-0500 (Central Daylight Time)'
 tags:
 - Life

@@ -3,6 +3,7 @@ title: "First Post!"
 cover: '/img/hello-masthead.jpg'
 isPost: true
 active: true
+postOrder: 1
 excerpt: An introductory post for this blog.
 postDate: 'Sat Jul 23 2015 06:00:00 GMT-0500 (Central Daylight Time)'
 tags:

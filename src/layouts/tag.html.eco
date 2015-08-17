@@ -15,13 +15,14 @@ cover: '/img/hello-masthead.jpg'
 
 <main id="content" class="content" role="main">
   <h1 style="width: 80%; max-width: 710px; margin: 0px auto;">Posts for "<%= @document.tag %>" tag</h1>
-  <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {postDate: -1}).toJSON(): %>
+  <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {postOrder: -1}).toJSON(): %>
   <article class="post">
     <header class="post-header">
-      <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+        <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
     </header>
     <section class="post-excerpt">
-      <p><%- @excerpt(page) %> <a class="read-more" href="<%= page.url %>">&raquo;</a></p>
+      <p><%- @excerpt(page) %></p>
+      <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
     </section>
     <footer class="post-meta">
       <% if @author.img: %>

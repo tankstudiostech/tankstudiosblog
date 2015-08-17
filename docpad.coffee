@@ -29,12 +29,17 @@ docpadConfig = {
           name: 'Life',
           href: '/tags/life.html',
           section: 'tag-life'
+        },
+        {
+          name: 'Tech',
+          href: '/tags/tech.html',
+          section: 'tag-tech'
+        },
+        {
+          name: 'Story',
+          href: '/tags/story.html',
+          section: 'tag-story'
         }
-        # {
-        #   name: 'Tech',
-        #   href: '/tags/tech.html',
-        #   section: 'tag-tech'
-        # },
         # {
         #   name: 'Dev',
         #   href: '/tags/Dev.html',
@@ -69,7 +74,7 @@ docpadConfig = {
       moment(ts).format(format)
   collections:
     posts: ->
-      @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {postDate: -1}).on "add", (model) ->
+      @getCollection("html").findAllLive({active:true, isPost: true, isPagedAuto: {$ne: true}}, {postOrder: -1}).on "add", (model) ->
         model.setMetaDefaults({layout:"post"})
   plugins:
     tags:
