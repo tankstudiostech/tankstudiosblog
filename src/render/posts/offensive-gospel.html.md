@@ -5,12 +5,13 @@ isPost: true
 active: true
 postOrder: 5
 excerpt: We share the gospel in love, but people will not always love the gospel
-postDate: 'Sat Aug 15 2015 07:30:00 GMT-0500 (Central Daylight Time)'
+postDate: 'Fri Aug 21 2015 8:00:00 GMT-0500 (Central Daylight Time)'
 tags:
 - Life
 - Gospel
 ---
 
+<img src="/img/offensive-gospel/divide.jpg" style="display: none;" />
 <p>
 	Recently I told a <a style="color: cornflowerblue;" title="The Day My Car Panicked" href="/posts/broken-car.html">story about my car getting fixed</a>.  During that time, I shared the gospel with the mechanic.
 	The mechanic told me he has no interest in following Jesus.  He does not even believe Jesus
@@ -36,10 +37,10 @@ tags:
 	"For while we were still weak, at the right time, Christ died for the ungodly." Rom. 5:6.
 </p>
 <p>
-	We want to be dependent, but the gospel explains that we are weak.
+	We want to be independent, but the gospel explains that we are weak.
 	**In fact, Rev 4:11 says we would stop existing if Jesus stopped wanting us to exist.**
 	Jesus could also stop our heart from beating or stop giving us air to breath.
-	The gospel offends our pride in dependency.
+	The gospel offends our pride in independency.
 </p>
 <h4>We have Rebelled</h4>
 <p>
