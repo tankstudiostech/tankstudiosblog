@@ -6,6 +6,7 @@ active: true
 postOrder: 5
 excerpt: We share the gospel in love, but people will not always love the gospel
 postDate: 'Sat Aug 15 2015 07:30:00 GMT-0500 (Central Daylight Time)'
+author: 0
 tags:
 - Life
 - Gospel

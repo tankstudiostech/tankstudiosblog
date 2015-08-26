@@ -6,6 +6,7 @@ active: true
 excerpt: Most of us have so many tasks to do we lose track of them all. We may make lists, but we often need the list when we don't have it, or we simply let it fall out of sync. Trello provides a free, easy way to create and manage tasks from wherever you are.
 postOrder: 3
 postDate: 'Fri Aug 07 2015 04:00:00 GMT-0500 (Central Daylight Time)'
+author: 0
 tags:
 - Tech
 - Trello

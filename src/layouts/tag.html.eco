@@ -25,10 +25,7 @@ cover: '/img/hello-masthead.jpg'
       <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
     </section>
     <footer class="post-meta">
-      <% if @author.img: %>
-        <img class="author-thumb" src="<%= @author.img %>" alt="<%= @author.name %>" nopin="nopin" />
-      <% end %>
-      <%- @partial('author') %>
+      <%= @authors[page.author].name %>
       <% if page.tags: %>
         <%- @partial('tags', {tags: page.tags}) %>
       <% end %>

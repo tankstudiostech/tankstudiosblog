@@ -7,17 +7,24 @@
 <% for page in @getPageCollection("posts").toJSON(): %>
 <article class="post">
     <header class="post-header">
-        <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+    <div>
+        <div style="float: left; padding-right: 5px;">
+            <img class="img-circle" src="<%= @authors[page.author].image %>" />
+        </div>
+        <div style="float: left;">
+            <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+        </div>
+    </div>
     </header>
+    <div style="clear:both;"></div>
     <section class="post-excerpt">
-      <p><%- @excerpt(page) %></p>
-      <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
+        <div style="float: none">
+         <p><%- @excerpt(page) %></p>
+         <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
+        </div>
     </section>
     <footer class="post-meta">
-      <% if @author.img: %>
-        <img class="author-thumb" src="<%= @author.img %>" alt="<%= @author.name %>" nopin="nopin" />
-      <% end %>
-      <%- @partial('author') %>
+      <%= @authors[page.author].name %>
       <% if page.tags: %>
         <%- @partial('tags', {tags: page.tags}) %>
       <% end %>

@@ -46,12 +46,22 @@ docpadConfig = {
         #   section: 'tag-Dev'
         # }
       ]
-    author:
-      name: 'Ryan Tankersley'
-      image: ''
-      url: '/'
-      location: 'Tulsa, OK',
-      bio: ''
+    authors: [
+        {
+          name: 'Ryan Tankersley'
+          image: '/img/ryan.png'
+          url: ''
+          location: 'Tulsa, OK',
+          bio: ''
+        },
+        {
+          name: 'Michelle Tankersley'
+          image: '/img/michelle.png'
+          url: ''
+          location: 'Tulsa, OK',
+          bio: ''
+        }
+      ]
     getPreparedTitle: -> if @document.title then "#{@document.title} | #{@site.title}" else @site.title
     getDescription: -> if @document.description then "#{@document.description} | #{@site.description}" else @site.description
     bodyClass: -> if @document.isPost then "post-template" else "home-template"
