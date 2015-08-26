@@ -17,9 +17,17 @@ cover: '/img/hello-masthead.jpg'
   <h1 style="width: 80%; max-width: 710px; margin: 0px auto;">Posts for "<%= @document.tag %>" tag</h1>
   <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {postOrder: -1}).toJSON(): %>
   <article class="post">
-    <header class="post-header">
-        <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+     <header class="post-header">
+    <div>
+        <div style="float: left; padding-right: 5px;">
+            <img class="img-circle" src="<%= @authors[page.author].image %>" />
+        </div>
+        <div style="float: left;">
+            <h2 class="post-title"><a href="<%= page.url %>"><%= page.title %></a></h2>
+        </div>
+    </div>
     </header>
+    <div style="clear:both;"></div>
     <section class="post-excerpt">
       <p><%- @excerpt(page) %></p>
       <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
