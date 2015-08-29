@@ -36,10 +36,10 @@ tags:
 	"For while we were still weak, at the right time, Christ died for the ungodly." Rom. 5:6.
 </p>
 <p>
-	We want to be dependent, but the gospel explains that we are weak.
+	We want to be independent, but the gospel explains that we are weak.
 	**In fact, Rev 4:11 says we would stop existing if Jesus stopped wanting us to exist.**
 	Jesus could also stop our heart from beating or stop giving us air to breath.
-	The gospel offends our pride in dependency.
+	The gospel offends our pride in our independency.
 </p>
 <h4>We have Rebelled</h4>
 <p>
