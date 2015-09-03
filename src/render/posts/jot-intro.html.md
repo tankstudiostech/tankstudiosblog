@@ -3,38 +3,36 @@ title: "Jesus in the Old Testament - Introduction"
 cover: '/img/jot/book.jpg'
 isPost: true
 active: true
-postOrder: 6
 excerpt: The entire Old Testament points to Jesus, but we often miss Him.
-postDate: 'Fri Aug 21 2015 8:00:00 GMT-0500 (Central Daylight Time)'
+postDate: '2015 08 28 22:40'
+author: 0
 tags:
 - Life
 - Gospel
 - JOT
 ---
 
-<img src="/img/offensive-gospel/divide.jpg" style="display: none;" />
 <p>
 	The Old Testament (OT) is an interesting set of books.  I can safely assume most Christians have not read the OT entirely, and
 	I can definitely assume most Christians know and understand the New Testament (NT) better than the OT. I am among the latter group.
-	And finally, some Christians, likely only find benefit in that it adds weight to the hardcover book, letting it be a holy paperweight 
-	and gaining arm strength lugging it around.
+	And finally, some Christians likely only find benefit from it by it adds weight to the hardcover book, gaining arm strength lugging it around.
 </p>
 
 <p>
-	**However, there is an amazing depth in the OT when read understanding its purpose.  I hope to explain that purpose, and in each further post in this series, explain
+	**However, there is amazing depth in the OT when it is read understanding its purpose.  I hope to explain that purpose, and in each further post in this series, explain
 	an OT story, showing how that story meets the purpose.**
 </p>
 
 <h3>What is the OT?</h3>
 <p>
-	Before delving into the purpose, let us briefly discuss what the OT is.  **The OT is a series of books outlining the history of the Jewish nation and their interaction with God.**
-	There are several different series that were written in similar ways with a similar mindset.  The series are as follows	
+	Before delving into the purpose, let us briefly discuss what the OT is.  **The OT is a series of books outlining the history of the Jewish nation and God's interactions with them.**
+	There are several different series that were written in similar ways with a similar mindset.  The series are as follows:
 </p>
 
 <ul>
 	<li>**Books of the Law** - Tells the story of creation, shows God choosing the Israelites, details them reaching the land He promises them (modern day Israel), and lists out
 	the laws God gives them to follow, such as the Ten Commandments.</li>
-	<li>**Books of History** - Tells the story of the Israelites taking over the Promised Land and their ups and downs in following the laws of God up through around 400 B.C.</li>
+	<li>**Books of History** - Tells the story of the Israelites taking over the Promised Land and their ups and downs in following the laws of God up to around 400 B.C.</li>
 	<li>**Books of Wisdom** - Explains life proverbs, discusses the meaning of life, and contains prayers and songs of individuals to God.</li>
 	<li>**Major Prophets** -  Contains the words of God spoken through men to Israel, rebuking, foretelling judgement, and promising restoration after repentance.</li>
 	<li>**Minor Prophets** - Contains the same as above, but in (typically) shorter books.</li>
@@ -44,19 +42,19 @@ tags:
 <p>
 	Knowing what the OT contains, lets talk about why it was written.  **Paul says that all Scripture is God-breathed and useful (1 Tim. 3:16-17).**
 	In Jesus' time, the Jews held the OT in high esteem.  They strictly followed the laws and sacrifices
-	listed in the book of the Law.  The sang the Psalms and searched out the meanings of the prophets.  **They believed their salvation into eternal life
+	listed in the books of the Law.  They sang the Psalms and searched out the meanings of the prophets.  **They believed their salvation into eternal life
 	rested within the scriptures.**
 </p>
 
 <h3>Jesus' Explanation of OT's Purpose</h3>
 <p>
-	And they were correct!  But many did not understand how it led to eternal life.	**Jesus Himself calls them out and explains
-	that they have completely missed the purpose.**
+	And they were correct!  But many did not understand how the OT led to eternal life.	**Jesus Himself calls them out, explaing
+	that they have completely missed the OT's purpose.**
 </p>
 
 <p>
-	In John 5, the Pharisees -- the Jew's religious leaders -- come asking Jesus who testifies with Him that
-	He is the Christ.  Jesus tells them that John the Baptist testifies (Jn 1:29), Jesus' works of the Father testify (...all 4 gospels), and finally that the entire OT testifies:
+	In John 5, the Pharisees -- the Jew's religious leaders -- ask Jesus who testifies with Him that
+	He is the Christ.  Jesus tells them that John the Baptist testifies (Jn 1:29), His works testify (...all 4 gospels), and finally that the entire OT testifies:
 </p>
 
 <div>
