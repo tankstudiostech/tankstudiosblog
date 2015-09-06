@@ -1,6 +1,6 @@
 ---
 title: "Syncing and Securing Accounts with Last Pass"
-cover: '/img/trello/writing.jpg'
+cover: '/img/tech/lastpass/shedlock.jpg'
 isPost: true
 active: true
 excerpt: You've heard having a different 20 character password for every website is good, but how is it possible? 
