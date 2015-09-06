@@ -52,7 +52,7 @@ tags:
 
 <h3>Is Password Security Important?</h3>
 <p>
-	I have never been hacked;  Therefore, I have always had a hard time caring enough about securing passwords.  I'll never get hacked!...**But,
+	I have never been hacked;  therefore, I have always had a hard time caring enough about securing passwords.  I'll never get hacked!...**But,
 	what if I did? What could happen?**  Well, my money could be
 	transferred to a different bank or PayPal account.  My Facebook account could be used to say horrible things to friends.  My email could be used as a
 	spambot.  I could keep going.
