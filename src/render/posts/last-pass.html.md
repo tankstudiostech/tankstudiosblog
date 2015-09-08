@@ -4,7 +4,7 @@ cover: '/img/tech/lastpass/shedlock.jpg'
 isPost: true
 active: true
 excerpt: You've heard having a different 20 character password for every website is good, but how is it possible? 
-postDate: '2015 09 04 16:00'
+postDate: '2015 09 06 17:00'
 author: 0
 tags:
 - Tech
