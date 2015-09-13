@@ -1,5 +1,5 @@
 ---
-title: "The Day a Snake Tried to Kill Me!"
+title: "The Day a Snake Tried to Kill Me"
 cover: '/img/snake-attack/sunset.jpg'
 isPost: true
 active: true
