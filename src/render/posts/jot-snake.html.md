@@ -77,7 +77,7 @@ tags:
 	
 <p>
 	The people of Israel had rebelled against God, declaring the good He does as bad.
-	We, likewise, do the same every day.  This evil deserves punishment.  On the Day of Judgment, God justly will make us drink the cup of His wrath.
+	We, likewise, do the same every day.  This evil deserves punishment. We have earned the cup God's wrath on the Day of Judgment.
 	We have already committed this crime.  **No good we do now can cover our sin, just as a murderer cannot clear his name by being good the rest of his life.**
 </p>
 
