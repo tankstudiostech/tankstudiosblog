@@ -5,10 +5,10 @@
 <% end %>
 
 <% for page in @getPageCollection("posts").toJSON(): %>
-<article class="post">
+<article class="post card">
     <header class="post-header">
     <div>
-        <div style="float: left; padding-right: 5px;">
+        <div style="float: left; margin-right: 20px;">
             <img class="img-circle" src="<%= @authors[page.author].image %>" />
         </div>
         <div style="float: left;">

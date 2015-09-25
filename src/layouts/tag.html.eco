@@ -14,12 +14,14 @@ cover: '/img/hello-masthead.jpg'
 </header>
 
 <main id="content" class="content" role="main">
-  <h1 style="width: 80%; max-width: 710px; margin: 0px auto;">Posts for "<%= @document.tag %>" tag</h1>
+  <div class="post card">
+    <h1 style="margin: 0">Posts for "<%= @document.tag %>" tag</h1>
+  </div>
   <% for page in @getFiles({tags:{$has: @document.tag} ,isPagedAuto: {$ne: true}}, {postOrder: -1}).toJSON(): %>
-  <article class="post">
-     <header class="post-header">
+  <article class="post card">
+    <header class="post-header">
     <div>
-        <div style="float: left; padding-right: 5px;">
+        <div style="float: left; margin-right: 20px;">
             <img class="img-circle" src="<%= @authors[page.author].image %>" />
         </div>
         <div style="float: left;">
@@ -29,8 +31,10 @@ cover: '/img/hello-masthead.jpg'
     </header>
     <div style="clear:both;"></div>
     <section class="post-excerpt">
-      <p><%- @excerpt(page) %></p>
-      <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
+        <div style="float: none">
+         <p><%- @excerpt(page) %></p>
+         <p><a class="read-more" href="<%= page.url %>">Read More</a></p>
+        </div>
     </section>
     <footer class="post-meta">
       <%= @authors[page.author].name %>

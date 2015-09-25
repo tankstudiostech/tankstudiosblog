@@ -24,8 +24,10 @@ tags:
 </p>
 
 <blockquote>
-	No one has ascended into heaven except He who descended from Heaven, the Son of Man.  And as Moses lifted up the serpent in the wilderness, so must
-	the Son of Man be lifted up, that whoever believes in Him may have eternal life. - John 3:13-15.
+	<p>
+		No one has ascended into heaven except He who descended from Heaven, the Son of Man.  And as Moses lifted up the serpent in the wilderness, so must
+		the Son of Man be lifted up, that whoever believes in Him may have eternal life. - John 3:13-15.
+	</p>
 </blockquote>
 
 <p>
