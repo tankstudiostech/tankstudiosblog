@@ -4,7 +4,7 @@ cover: '/img/jot/book.jpg'
 isPost: true
 active: true
 excerpt: We would never compare Jesus to a snake, but in John 3, Jesus does.
-postDate: '2015 09 19 22:40'
+postDate: '2015 09 25 12:00'
 author: 0
 tags:
 - Life
