@@ -66,24 +66,27 @@ tags:
 <h3>Jesus the Serpent</h3>
 
 <p>
-	Nicodemus is a Pharisee - a member of the religious elite.  He knows the book of Numbers better than anyone else.  This story must have
-	flashed through his head when Jesus said, "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in Him
+	Now lets return to John 3:14-16.  In this passage, Jesus is talking to a man named Nicodemus. Nicodemus wanted to speak to Jesus because he believed it was
+	clear that Jesus came from God.  They then get into a discussion about entering the Kingdom of Heaven, during which
+	Jesus explains, "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in Him
 	may have eternal life."
 </p>
 
 <p>
+	Nicodemus is a Pharisee - a member of the religious elite.  He knows the book of Numbers better than anyone else.  The full story of the Israelites
+	would have flashed through Nicodemus' head when Jesus spoke of the serpent in the wilderness.
 	Now that we have the information Nicodemus had, let's look at what Jesus was saying.  
 </p>
 	
 <p>
 	The people of Israel had rebelled against God, declaring the good He does as bad.
-	We, likewise, do the same every day.  This evil deserves punishment. We have earned the cup God's wrath on the Day of Judgment.
+	We, likewise, do the same every day.  This evil deserves punishment. We have earned the cup of God's wrath on the Day of Judgment.
 	We have already committed this crime.  **No good we do now can cover our sin, just as a murderer cannot clear his name by being good the rest of his life.**
 </p>
 
 <p>
 	**But God, being merciful, provided a way to be free of this judgment.**  First we must recognize our sin against God, as the Israelites did.  We must believe that
-	we are rebels, completely deserving our punishment and completely hopeless to avert it.  **God graciously provides a substitue, the snake, Jesus, and sets Him on a pole, the cross.
+	we are rebels, completely deserving our punishment and completely hopeless to avert it.  **God graciously provides a Substitute, the snake, Jesus, and sets Him on a pole, the cross.
 	And if we look to the snake on the pole, Jesus on the cross, we will be saved!**  The venom in us, the sin in us, means certain, eternal death (Rom. 6:23). We are dead men walking. But
 	when we look upon the snake, Jesus on the cross, we will be brought back to life!
 </p>
@@ -97,7 +100,7 @@ tags:
 	<p>
 		[Jesus] was pierced for our transgressions; He was crushed for our iniquities; upon Him was the chastisement
 		that brought us peace, and with His wounds...we are healed.  We all like sheep have gone astray; we have turned - every one - to his own way; and the Lord
-		has lain on Him the iniquity of us all (Is. 53:5-6).
+		has laid on Him the iniquity of us all (Is. 53:5-6).
 	</p>
 </blockquote>
 
@@ -105,8 +108,8 @@ tags:
 
 <p>
 	Wow...just wow.  If that does not leave you in speechless awe of our Lord and Savior, I do not know what will.  Just as God raised up a snake on a pole when the Israelites
-	sinned in the time of Moses, the Son of Man must be lifted up on the cross, so that any who belive will be saved from their sin and have eternal life.  For God so loved the world that He gave His only Son,
-	the Son who knew no sin but became sin, became the snake, for us all, so that whoever believes in Him will have eternal life, becoming the righteousness of God in Him (Jn. 3:14-15 2 Cor. 5:21).
+	sinned in the time of Moses, the Son of Man must be lifted up on the cross, so that any who believe will be saved from their sin and have eternal life.  For God so loved the world that He gave His only Son,
+	the Son who knew no sin but became sin, became the snake, for us all, so that whoever believes in Him will have eternal life, becoming the righteousness of God in Him (Jn. 3:14-15, 2 Cor. 5:21).
 </p>
 
 <p>
