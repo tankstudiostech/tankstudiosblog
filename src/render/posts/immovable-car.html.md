@@ -4,7 +4,7 @@ cover: '/img/broken-car/old-car.jpg'
 isPost: true
 active: true
 excerpt: Another story of my regular car problems
-postDate: '2015 10 02 07:30'
+postDate: '2015 10 03 06:00'
 author: 0
 tags:
 - Life
