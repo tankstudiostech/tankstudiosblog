@@ -110,7 +110,7 @@ tags:
 	my fellow coworkers are taking turns on a mini segue!**
 </p>
 
-<img src="https://qph.is.quoracdn.net/main-qimg-f9d86e8d740630c8f7d8b2343cc5210a?convert_to_webp=true" />
+<img src="../img/immovable-car/erover.png" />
 
 <p>
 	I spend the next hour watching people riding and riding it myself.  These machines are awesome.  They appear
