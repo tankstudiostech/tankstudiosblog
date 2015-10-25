@@ -39,7 +39,7 @@ tags:
 <h3>A Helpful Solution</h3>
 
 <p>
-	I read an article on <a href="http://www.desiringgod.com">Desiring God</a>, titled, <a href="reignite-your-prayer-life">_Reignite your Prayer Life_</a>. This part of the
+	I read an article on <a href="http://www.desiringgod.org">Desiring God</a> titled <a href="http://www.desiringgod.org/articles/reignite-your-prayer-life">_Reignite your Prayer Life_</a>. This part of the
 	article resonated with me:
 </p>
 
