@@ -15,7 +15,7 @@ tags:
 <p>
     I am weak, and I'm not referring to my physical strength. Well...to be fair, I can include my physical strength in that weakness.
     I put all my effort into running instead of strength. Therefore, when I have a slight head start on the strong guy who wants to destroy
-    my face with his fist, I should be fine.
+    my face, I should be alright.
 </p>
 <p>
     Lets start over. **I am weak.** I am weak physically, but I am also weak in other aspects of my life. For instance, I am unable to multitask. If
@@ -90,7 +90,7 @@ tags:
     should pray and seek wise counsel. If the issue is a personality weakness, we should pray and work towards growing out of the weakness.
 </p>
 <p>
-    **But we notice that He doesn't always heal.** He didn't remove the thorn from Paul. He doesn't fix Moses' mouth. Instead, God says, "My grace is sufficient for you,
+    **But we notice that He doesn't always heal.** He didn't remove the thorn from Paul. He didn't heal Moses' mouth. Instead, God says, "My grace is sufficient for you,
     for my power is made perfect in weakness."
 </p>
 <p>
